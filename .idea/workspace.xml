@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f82b4e28-3c9e-41a9-8897-f92836638608" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2axg6mRdVLGI3RlSBasnXPr7Xe4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IdeaProject/gorest-restassured-project-02/src/test/java/com/gorest&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProject\gorest-restassured-project-02\src\test\java\com\gorest" />
+      <recent name="C:\IdeaProject\gorest-restassured-project-02\src\main\java\com\gorest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProject\gorest-restassured-project-02\src\test\java\com\gorest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gorest.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UserAssertionTest.test004">
+    <configuration name="PostAssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testSuite.PostAssertionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostAssertionTest.test004" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testSuite.PostAssertionTest" />
+      <option name="METHOD_NAME" value="test004" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostExtractionTest.test002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testSuite.PostExtractionTest" />
+      <option name="METHOD_NAME" value="test002" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostExtractionTest.test003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testSuite.PostExtractionTest" />
+      <option name="METHOD_NAME" value="test003" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAssertionTest.test004" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testSuite.UserAssertionTest" />
+      <option name="METHOD_NAME" value="test004" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserAssertionTest.test004" />
+        <item itemvalue="TestNG.PostAssertionTest.test004" />
+        <item itemvalue="TestNG.PostAssertionTest" />
+        <item itemvalue="TestNG.PostExtractionTest.test002" />
+        <item itemvalue="TestNG.PostExtractionTest.test003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f82b4e28-3c9e-41a9-8897-f92836638608" name="Changes" comment="" />
+      <created>1696362330856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696362330856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gorest/testBase/TestBase.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
